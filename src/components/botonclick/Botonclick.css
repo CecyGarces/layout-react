@@ -1,0 +1,20 @@
+.agregar{
+    background: lightpink;
+    border-radius: 10px;
+    padding: 15px 35px;
+    border: 1px solid black;
+}
+
+.eliminar{
+    background: rgb(233, 246, 179);
+    border-radius: 10px;
+    padding: 15px 35px;
+    border: 1px solid black;
+}
+
+.modificar{
+    background: paleturquoise;
+    border-radius: 10px;
+    padding: 15px 35px;
+    border: 1px solid black;
+}

@@ -1,0 +1,16 @@
+.main{
+    width: 77vw;
+    height: calc( 100vh - 25vh );
+    background-color: rgb(226, 183, 248);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main div{
+    width: 30vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
